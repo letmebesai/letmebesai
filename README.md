@@ -9,7 +9,7 @@
 
 I am a passionate **AI/ML Engineer** with hands-on experience building research-oriented deep learning systems that solve real-world problems. My recent work spans **Federated Learning, Computer Vision, Explainable AI, and Natural Language Processing**.
 
-I thrive on technically challenging problems and believe in high-discipline, high-output execution — results are the only metric that matters.
+I thrive on technically challenging problems and believe in high-discipline, high-output execution — results are the only metric that matters to me.
 
 ---
 

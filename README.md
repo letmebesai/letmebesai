@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Srinivas Chintapenta
+# 👋 Hi, I'm Sai Srinivas
 
 🎓 B.Tech in Electronics & Communication Engineering — SASTRA Deemed University  
 🤖 AI/ML Engineer | Deep Learning Researcher | Problem Solver

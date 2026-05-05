@@ -74,7 +74,7 @@ A **decentralized, privacy-preserving crop disease diagnosis system** built with
 ### 📡 Eye-Slotted 2×2 MIMO sub-THz Patch Antenna for 6G + ML Frequency Prediction
 > Research Paper — SASTRA Deemed University
 
-A **multi-band sub-THz MIMO antenna** designed for 6G communication, combined with a machine learning system to predict resonant frequencies directly from physical dimensions — eliminating the need for time-consuming full-wave simulations.
+A **multi-band MIMO antenna with ML** designed for 6G communication, combined with a machine learning system to predict resonant frequencies directly from physical dimensions — eliminating the need for time-consuming full-wave simulations.
 
 - 📐 Designed an **eye-slotted 2×2 MIMO rectangular patch antenna** operating at 4 resonant frequencies (107.6, 118, 144, 174.6 GHz) using Rogers RT-Duroid 5880 substrate via **CST Studio Suite**
 - 📶 MIMO achieves **ECC of 0.0009**, DG of 9.995 dB, and MEG of −3.01 dB — well within 6G performance benchmarks

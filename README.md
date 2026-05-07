@@ -17,7 +17,7 @@ I thrive on technically challenging problems and believe in high-discipline, hig
 
 - 🔬 Deep Learning & Computer Vision
 - 🌐 Federated & Distributed Machine Learning
-- 💡 Explainable AI (XAI)
+- 💡 Programming
 - 📊 Data Analysis & Visualization
 - 📝 AI/ML Research & Innovation
 

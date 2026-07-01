@@ -54,7 +54,7 @@ I thrive on technically challenging problems and believe in high-discipline, hig
 A **decentralized, privacy-preserving crop disease diagnosis system** built with Federated Learning across real distributed hardware.
 
 - 🔀 Hybrid **VGG16-ViT** architecture combining CNN local features with Transformer global context
-- 🔒 **Federated Learning** via Flower Framework + Tailscale VPN across 3 physical laptops
+- 🔒 **Federated Learning** via Flower Framework + WinSCP and PuTTy across 3 physical laptops
 - 🧠 **Grad-CAM++** heatmaps for explainable visual predictions
 - 💬 Custom **Small Language Model (SLM)** built from scratch for disease descriptions & treatment recommendations
 - 📊 **97–98% accuracy** across 17 disease classes on non-IID distributed data

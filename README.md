@@ -99,6 +99,17 @@ A **multi-band MIMO antenna with ML** designed for 6G communication, combined wi
 - 🧩 Strengthening Data Structures & Algorithms
 - 🌍 Contributing to open-source AI projects
 
+
+
+## 📚 Publications
+
+### Intelligent Agri-App Information Dissemination System for Smart Farming
+- 📄 Published in **IEEE Xplore**
+- 📅 2026
+- 👨‍💻 Authors: Ghousiya Begum K., Arundhathi Palanivelu, Chintapenta Sai Srinivas, Ramanan R.
+- 🔬 Research Areas: Artificial Intelligence, Computer Vision, IoT, Smart Agriculture, Data Analytics
+- 🔗 IEEE Xplore: [https://doi.org/10.1109/ICICI68773.2026.11580868](url)
+
 ---
 
 ## 📫 Connect With Me

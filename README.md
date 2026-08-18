@@ -51,7 +51,7 @@ I thrive on technically challenging problems and believe in high-discipline, hig
 ### 🌿 [Federated Crop Disease Detection using VGG-ViT & XAI](https://github.com/your-username/federated-crop-disease-detection-vgg-vit-xai)
 > B.Tech Major Project — May 2026
 
-A **decentralized, privacy-preserving crop disease diagnosis system** built with Federated Learning across real distributed hardware.
+A **Decentralized, privacy-preserving crop disease diagnosis system** built with Federated Learning across real distributed hardware.
 
 - 🔀 Hybrid **VGG16-ViT** architecture combining CNN local features with Transformer global context
 - 🔒 **Federated Learning** via Flower Framework + WinSCP and PuTTy across 3 physical laptops

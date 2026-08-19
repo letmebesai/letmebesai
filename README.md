@@ -20,6 +20,10 @@ I thrive on technically challenging problems and believe in high-discipline, hig
 - 💡 Programming
 - 📊 Data Analysis & Visualization
 - 📝 AI/ML Research & Innovation
+- Data Engineering
+- LLMs
+- RAG
+- GenAI
 
 ---
 
@@ -61,7 +65,7 @@ A **Decentralized, privacy-preserving crop disease diagnosis system** built with
 
 ---
 
-### 🌾 Intelligent Agri-App (IAAIDS)
+### 🌾 Intelligent Agri-App (IAAIDS) (Published - Jul 2026)
 > AI + IoT integrated smart farming system
 
 - 🔍 Crop disease detection using deep learning

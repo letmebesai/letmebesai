@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sai Srinivas
 
 🎓 B.Tech in Electronics & Communication Engineering — SASTRA Deemed University  
-🤖 AI/ML Engineer | Deep Learning Researcher | Problem Solver
+🤖 AI/ML Data Engineer | Deep Learning Researcher | Problem Solver
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **AI/ML Engineer** with hands-on experience building research-oriented deep learning systems that solve real-world problems. My recent work spans **Federated Learning, Computer Vision, Explainable AI, and Natural Language Processing**.
+I am a passionate **AI/ML Data Engineer** with hands-on experience building research-oriented deep learning systems that solve real-world problems. My recent work spans **Federated Learning, Explainable AI, and Natural Language Processing**.
 
 I thrive on technically challenging problems and believe in high-discipline, high-output execution — results are the only metric that matters to me.
 

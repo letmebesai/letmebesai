@@ -24,6 +24,9 @@ I thrive on technically challenging problems and believe in high-discipline, hig
 - LLMs
 - RAG
 - GenAI
+- Data Analytics
+- SQL
+- Prompt Engineering
 
 ---
 

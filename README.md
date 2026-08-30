@@ -108,14 +108,19 @@
 
 ## 📈 Activity & GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="97%" alt="GitHub Streak" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="97%" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
 
 ⭐ *Open to collaborations on research projects, open-source AI, and edge ML pipelines.*
 

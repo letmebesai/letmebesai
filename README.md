@@ -9,10 +9,8 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/letmebesai)
 
 </div>
 
@@ -73,7 +71,7 @@
         <li><b>Performance:</b> <code>97–98%</code> accuracy across 17 non-IID disease classes.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/your-username/federated-crop-disease-detection-vgg-vit-xai"><b>View Repository ➔</b></a>
+        <a href="https://github.com/letmebesai"><b>View Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -89,7 +87,7 @@
         <li><b>Impact:</b> Reduced full-wave CST computational cycle from <b>hours to &lt;1 second</b>.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/your-username"><b>View Repository ➔</b></a>
+        <a href="https://github.com/letmebesai"><b>View Repository ➔</b></a>
       </p>
     </td>
   </tr>
@@ -109,13 +107,13 @@
 ## 📈 Activity & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=letmebesai&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="97%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="97%" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/38BDF8/letmebesai" alt="GitHub Contributions Chart" width="100%" />
 </div>
 
 ---

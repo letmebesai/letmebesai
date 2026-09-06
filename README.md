@@ -100,7 +100,7 @@
 > **Intelligent Agri-App Information Dissemination System for Smart Farming**  
 > *Ghousiya Begum K., Arundhathi Palanivelu, **Chintapenta Sai Srinivas**, Ramanan R.*  
 > 🏛️ **IEEE Xplore** (2026) · [🔗 DOI: 10.1109/ICICI68773.2026.11580868](https://doi.org/10.1109/ICICI68773.2026.11580868)  
-> `AI` `Computer Vision` `IoT` `Smart Farming` `Data Analytics`
+> `AI` `IoT` `Smart Farming` `Data Analytics`
 
 ---
 

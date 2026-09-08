@@ -18,8 +18,8 @@
 
 ## ⚡ Quick Overview
 
-- 🔭 **Specialization:** Federated Learning, Vision Transformers (ViT), Explainable AI (Grad-CAM++), and LLMs/RAG.
-- 🎯 **Current Focus:** High-throughput model optimization, edge inference pipelines, and scalable Data Engineering.
+- 🔭 **Specialisation:** Federated Learning, Vision Transformers (ViT), Explainable AI (Grad-CAM++), and LLMs/RAG.
+- 🎯 **Current Focus:** High-throughput model optimisation, edge inference pipelines, and scalable Data Engineering.
 - 💡 **Philosophy:** High-discipline execution, clear empirical validation, and building production-ready architectures.
 - 📚 **Research:** First-author & co-author contributions in deep learning for smart agriculture and sub-THz communications.
 
